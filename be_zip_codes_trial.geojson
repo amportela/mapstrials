@@ -570,10 +570,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4030",
-                "N": "Grivegn�e"
-            },
+            
             "type": "Feature"
         },
         {
@@ -1198,10 +1195,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4040",
-                "N": "Herstal"
-            },
+            
             "type": "Feature"
         },
         {
@@ -1706,10 +1700,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4053",
-                "N": "Embourg"
-            },
+            
             "type": "Feature"
         },
         {
@@ -2238,10 +2229,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4102",
-                "N": "Ougr�e"
-            },
+            
             "type": "Feature"
         },
         {
@@ -2646,10 +2634,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4171",
-                "N": "Poulseur"
-            },
+            
             "type": "Feature"
         },
         {
@@ -4114,10 +4099,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4000",
-                "N": "Li�ge"
-            },
+            
             "type": "Feature"
         },
         {
@@ -5826,10 +5808,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4020",
-                "N": "Li�ge"
-            },
+            
             "type": "Feature"
         },
         {
@@ -6798,10 +6777,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4031",
-                "N": "Angleur"
-            },
+            
             "type": "Feature"
         },
         {
@@ -7358,10 +7334,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4032",
-                "N": "Ch�n�e"
-            },
+            
             "type": "Feature"
         },
         {
@@ -8006,10 +7979,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4041",
-                "N": "Milmort"
-            },
+            
             "type": "Feature"
         },
         {
@@ -8262,10 +8232,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4042",
-                "N": "Liers"
-            },
+            
             "type": "Feature"
         },
         {
@@ -9146,10 +9113,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4050",
-                "N": "Chaudfontaine"
-            },
+            
             "type": "Feature"
         },
         {
@@ -9894,10 +9858,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4051",
-                "N": "Vaux-sous-Ch�vremont"
-            },
+            
             "type": "Feature"
         },
         {
@@ -10910,10 +10871,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4052",
-                "N": "Beaufays"
-            },
+            
             "type": "Feature"
         },
         {
@@ -11958,10 +11916,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4100",
-                "N": "Seraing"
-            },
+            
             "type": "Feature"
         },
         {
@@ -12478,10 +12433,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4101",
-                "N": "Jemeppe-sur-Meuse"
-            },
+            
             "type": "Feature"
         },
         {
@@ -13790,10 +13742,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4120",
-                "N": "Neupr�"
-            },
+            
             "type": "Feature"
         },
         {
@@ -14682,10 +14631,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4121",
-                "N": "Neuville-en-Condroz"
-            },
+            
             "type": "Feature"
         },
         {
@@ -15446,10 +15392,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4122",
-                "N": "Plainevaux"
-            },
+            
             "type": "Feature"
         },
         {
@@ -17202,10 +17145,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4130",
-                "N": "Esneux"
-            },
+            
             "type": "Feature"
         },
         {
@@ -19366,10 +19306,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4140",
-                "N": "Sprimont"
-            },
+            
             "type": "Feature"
         },
         {
@@ -20510,10 +20447,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4141",
-                "N": "Louveign�"
-            },
+            
             "type": "Feature"
         },
         {
@@ -21370,10 +21304,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4170",
-                "N": "Comblain-au-Pont"
-            },
+            
             "type": "Feature"
         },
         {
@@ -22562,10 +22493,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4340",
-                "N": "Awans"
-            },
+            
             "type": "Feature"
         },
         {
@@ -22974,10 +22902,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4342",
-                "N": "Hognoul"
-            },
+            
             "type": "Feature"
         },
         {
@@ -23666,10 +23591,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4420",
-                "N": "Saint-Nicolas (Lg.)"
-            },
+            
             "type": "Feature"
         },
         {
@@ -24202,10 +24124,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4430",
-                "N": "Ans"
-            },
+            
             "type": "Feature"
         },
         {
@@ -25606,10 +25525,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4400",
-                "N": "Fl�malle"
-            },
+            
             "type": "Feature"
         },
         {
@@ -25934,10 +25850,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4431",
-                "N": "Loncin"
-            },
+            
             "type": "Feature"
         },
         {
@@ -26674,10 +26587,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4432",
-                "N": "Alleur"
-            },
+            
             "type": "Feature"
         },
         {
@@ -27154,10 +27064,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4452",
-                "N": "Paifve"
-            },
+            
             "type": "Feature"
         },
         {
@@ -27542,10 +27449,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4453",
-                "N": "Villers-Saint-Sim�on"
-            },
+            
             "type": "Feature"
         },
         {
@@ -28754,10 +28658,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4450",
-                "N": "Juprelle"
-            },
+            
             "type": "Feature"
         },
         {
@@ -29206,10 +29107,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4451",
-                "N": "Voroux-lez-Liers"
-            },
+            
             "type": "Feature"
         },
         {
@@ -29830,10 +29728,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4458",
-                "N": "Fexhe-Slins"
-            },
+            
             "type": "Feature"
         },
         {
@@ -30938,10 +30833,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4460",
-                "N": "Jemeppe-sur-Meuse"
-            },
+            
             "type": "Feature"
         },
         {
@@ -31314,10 +31206,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4601",
-                "N": "Argenteau"
-            },
+            
             "type": "Feature"
         },
         {
@@ -31758,10 +31647,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4602",
-                "N": "Cheratte"
-            },
+            
             "type": "Feature"
         },
         {
@@ -32214,10 +32100,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4606",
-                "N": "Saint-Andr�"
-            },
+            
             "type": "Feature"
         },
         {
@@ -32726,10 +32609,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4621",
-                "N": "Retinne"
-            },
+            
             "type": "Feature"
         },
         {
@@ -33210,10 +33090,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4623",
-                "N": "Magn�e"
-            },
+            
             "type": "Feature"
         },
         {
@@ -35034,10 +34911,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4600",
-                "N": "Vis�"
-            },
+            
             "type": "Feature"
         },
         {
@@ -36886,10 +36760,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4607",
-                "N": "Dalhem"
-            },
+            
             "type": "Feature"
         },
         {
@@ -37782,10 +37653,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4608",
-                "N": "Neufch�teau (Lg.)"
-            },
+            
             "type": "Feature"
         },
         {
@@ -38518,10 +38386,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4624",
-                "N": "Roms�e"
-            },
+            
             "type": "Feature"
         },
         {
@@ -39746,10 +39611,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4610",
-                "N": "Beyne-Heusay"
-            },
+            
             "type": "Feature"
         },
         {
@@ -40310,10 +40172,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4620",
-                "N": "Fl�ron"
-            },
+            
             "type": "Feature"
         },
         {
@@ -40966,10 +40825,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4680",
-                "N": "Oupeye"
-            },
+            
             "type": "Feature"
         },
         {
@@ -41458,10 +41314,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4681",
-                "N": "Hermalle-sous-Argenteau"
-            },
+            
             "type": "Feature"
         },
         {
@@ -42458,10 +42311,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4670",
-                "N": "Bl�gny"
-            },
+            
             "type": "Feature"
         },
         {
@@ -43078,10 +42928,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4682",
-                "N": "Heure-le-Romain"
-            },
+            
             "type": "Feature"
         },
         {
@@ -44138,10 +43985,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4671",
-                "N": "Barchon"
-            },
+            
             "type": "Feature"
         },
         {
@@ -44450,10 +44294,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4672",
-                "N": "Saint-Remy (Lg.)"
-            },
+            
             "type": "Feature"
         },
         {
@@ -44846,10 +44687,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4683",
-                "N": "Vivegnis"
-            },
+            
             "type": "Feature"
         },
         {
@@ -45414,10 +45252,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4684",
-                "N": "Haccourt"
-            },
+            
             "type": "Feature"
         },
         {
@@ -47350,10 +47185,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4690",
-                "N": "Bassenge"
-            },
+            
             "type": "Feature"
         },
         {
@@ -49274,10 +49106,7 @@
                 ],
                 "type": "MultiPolygon"
             },
-            "properties": {
-                "ID": "4870",
-                "N": "Trooz"
-            },
+            
             "type": "Feature"
         }
     ],
